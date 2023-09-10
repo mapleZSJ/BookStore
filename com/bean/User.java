@@ -1,8 +1,8 @@
 package com.bean;
 
 public class User {
-	private int uno = 0;
-	private String name = null;
+    private int uno = 0;
+    private String name = null;
     private String pwd = null;
     private String okPwd = null;
     private String sex = null;
