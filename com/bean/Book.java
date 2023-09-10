@@ -1,8 +1,8 @@
 package com.bean;
 
 public class Book {
-	private String bno = null;
-	private String bname = null;
+    private String bno = null;
+    private String bname = null;
     private String author = null;
     private String introduction = null;
     private double price = 0.00;
