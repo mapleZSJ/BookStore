@@ -3,8 +3,8 @@ package com.bean;
 import java.sql.Date;
 
 public class Order {
-	private int ono = 0;
-	private int amount = 0;
+    private int ono = 0;
+    private int amount = 0;
     private double bmoney = 0.00;
     private double expenses = 0.00;
     private boolean state = false;
